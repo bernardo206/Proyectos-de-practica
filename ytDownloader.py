@@ -1,6 +1,6 @@
 from pytube import YouTube
 from sys import argv
-
+#sirve para entrar desde cmd y pasar como parametro el link
 link = argv[1]
 
 #link= "https://www.youtube.com/watch?v=WTpXukCywiw"
